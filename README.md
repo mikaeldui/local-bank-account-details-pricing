@@ -6,7 +6,7 @@ A table of the prices for having local bank account details in different countri
 | Country | Signup       | Yearly       | Remarks |
 |---------|--------------|--------------|---------|
 | Hungary | (Not public) | (Not public) | [VIBER (RTGS) membership](https://www.mnb.hu/en/payments/settlement-systems/viber-real-time-gross-settlement-system) required, managed by [GIRO](https://www.giro.hu/bkr).
-| Sweden  | 160,000 SEK | 900,000 SEK | For instant, and additional 600,000 SEK/y + 100,000 SEK registration [[source]](https://www.riksbank.se/sv/betalningar--kontanter/betalningssystemet-rix/delta-i-rix/prislista/) |
+| Sweden  | 160,000 SEK | 900,000 SEK | An additional 100,000 SEK + 600,000 SEK/y for instant [[source]](https://www.riksbank.se/sv/betalningar--kontanter/betalningssystemet-rix/delta-i-rix/prislista/) |
 
 ## North America
 
