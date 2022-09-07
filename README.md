@@ -11,4 +11,5 @@ A table of the prices for having local bank account details in different countri
 
 | Country     | Signup       | Yearly       | Remarks |
 |-------------|--------------|--------------|---------|
-| New Zealand | (Not public) | (Not public) | [Participation in Payments NZ](https://www.paymentsnz.co.nz/join-us/participation/) required for BECS, pricing not public. |
+| Australia   | (Not public) | (Not public) | [Participation in Australian Payments Network](https://www.auspaynet.com.au/join-us) required. |
+| New Zealand | (Not public) | (Not public) | [Participation in Payments NZ](https://www.paymentsnz.co.nz/join-us/participation/) required for BECS. |
